@@ -1,6 +1,7 @@
 # S&P 500 Portfolio Optimizer 
 This repository contains a Jupyter notebook that utilizes the IEX Cloud API to gather data on the S&P 500 companies and the Interactive Brokers API to execute trades based on user-specified portfolio size. This notebook is a modified version of the original work by Nick McCullum - https://github.com/nickmccullum/algorithmic-trading-python 
-## Getting Started 1. Clone the repository to your local machine. 
+## Getting Started 
+1. Clone the repository to your local machine. 
 2. Install the required packages listed in the requirements.txt file. 
 3. Obtain an API key for both IEX Cloud and Interactive Brokers. 
 4. Replace the placeholder values in the notebook with your own API keys. 
